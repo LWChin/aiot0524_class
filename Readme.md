@@ -1,4 +1,4 @@
-# Wei-Chin Lee's New Homework #5 (to huanchen1107/aiot_hw5)
+# Wei-Chin Lee's Homework #5 (to huanchen1107/aiot_hw5)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
